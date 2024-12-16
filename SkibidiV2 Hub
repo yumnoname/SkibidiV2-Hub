@@ -77,7 +77,7 @@ local list = {
 	[1451439645] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/KingLegacyFree.lua'))()",
 
 	--Blox Fruit
-	[994732206] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/yumnoname/SkibidiV2-Hub/refs/heads/main/SkibidiV2%20Hub",
+	[117390141608083] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/yumnoname/Skibidi-Hub/refs/heads/main/Skibidi%20Hub",
 
 	--Pet Simulator X
 	[2316994223] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/PetSimXFree.lua'))()",
@@ -153,7 +153,7 @@ local list = {
 -- 	[1451439645] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Pre/KingLegacyPre.lua'))()",
 
 -- 	--Blox Fruit
--- 	[994732206] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/main/BloxFruit/BloxFruitTEST_ONLY.lua'))()",
+-- 	[117390141608083] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/main/BloxFruit/BloxFruitTEST_ONLY.lua'))()",
 
 -- 	--Pet Simulator X
 -- 	[2316994223] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HohoV2/Free/PetSimXFree.lua'))()",
